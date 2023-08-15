@@ -21,5 +21,5 @@
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=SarmadNaroo)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=SarmadNaroo)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarmadNaroo&show_icons=true&theme=dark)  
-![GitHub metrics](https://metrics.lecoq.io/fahad-qureshi786)  
+![GitHub metrics](https://metrics.lecoq.io/SarmadNaroo)  
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=SarmadNaroo)  
