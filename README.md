@@ -16,6 +16,7 @@
 ### Technologies I am working with:
 
 Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SarmadNaroo)  
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=SarmadNaroo)
