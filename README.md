@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @SarmadNaroo
-- 👀 I’m interested in FULL STACK DEVELOPEMENT GOOD IN (JAVA, C++,MYSQL, WEB).
-- 🌱 I’m currently learning JAVA SERVLETS, JAVAFX, FLUTTER
-- 💞️ I’m looking to collaborate on WEB PROJECTS AND JAVA PROJECTS.
-- 📫 How to reach me sarmadnarooali@gamil.com
+### Hi there, Sarmad Naroo here 😍 
 
-<!---
-SarmadNaroo/SarmadNaroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    
+### Student Life
+  
+###  Professional Side:
+   
+### My Work and projects
+ 
+### Company Site 
+    🔗 [ Company Website]()
+    
+### Portfolio    
+    🔗 [ Personal Portfolio Website]()
+
+### Technologies I am working with:
+
+                 Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SarmadNaroo)  
+<br/>
+ ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=SarmadNaroo)
+![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=SarmadNaroo)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarmadNaroo&show_icons=true&theme=dark)  
+![GitHub metrics](https://metrics.lecoq.io/fahad-qureshi786)  
+![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=SarmadNaroo)  
